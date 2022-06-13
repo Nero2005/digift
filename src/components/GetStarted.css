@@ -1,0 +1,41 @@
+.get-started-cont {
+  width: 60%;
+  margin-top: 7%;
+  padding: 7%;
+}
+
+.get-started-title {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 67px;
+  letter-spacing: -0.03em;
+  /* width: 55%; */
+  text-align: left;
+  margin-bottom: 6%;
+  color: #000429;
+}
+
+.get-started-title span {
+  color: blue;
+}
+
+.get-started-desc {
+  color: #8A91A8;
+  width: 75%;
+  text-align: left;
+}
+
+.get-started-buttons {
+  display: flex;
+  justify-content: flex-start;
+}
+
+#get-started-btn,
+#signin-btn {
+  padding: 2% 5%;
+  text-align: left;
+}
+
+#signin-btn {
+  color: #8a91a8;
+}

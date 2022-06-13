@@ -1,0 +1,82 @@
+.home-link {
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+  margin-left: 10px;
+  font-size: 1.4rem;
+}
+
+/*
+
+
+position: absolute;
+width: 1280px;
+height: 682px;
+left: 0px;
+top: -1px;
+
+background: url(.png);
+mix-blend-mode: soft-light;
+
+*/
+.nav-link {
+  color: rgb(160, 160, 160);
+}
+form {
+  text-align: left;
+  width: 60%;
+  display: inline-block;
+  margin-right: 5%;
+}
+#find-cards {
+  padding: 1.2%;
+  display: inline-block;
+  width: 100%;
+  background-color: rgb(230, 230, 230);
+  color: rgb(160, 160, 160);
+}
+#find-cards input {
+  display: inline-block;
+  width: 85%;
+  background-color: transparent;
+  border: none;
+}
+ul {
+  margin-left: 10%;
+  width: 25%;
+}
+#nav-2 {
+  /* position: absolute;
+  right: 5%; */
+  width: 70%;
+}
+.light-dark {
+  /* margin-left: 10%; */
+  border-radius: 50px;
+  display: inline-block;
+  background-color: #f3f4f7;
+}
+.light-c,
+.dark-c {
+  /* padding: 10px; */
+  border-radius: 50px;
+}
+.light {
+  background-color: white;
+  color: rgb(200, 200, 200);
+  border-radius: 50px;
+}
+.dark {
+  /* border-radius: 999; */
+  border-radius: 50px;
+  /* background-color: white;
+  color: rgb(200, 200, 200); */
+}
+#login {
+  display: inline-block;
+  text-decoration: none;
+}
+#get-started {
+  display: inline-block;
+  text-decoration: none;
+}

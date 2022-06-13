@@ -1,0 +1,32 @@
+.arrivals {
+  padding: 7%;
+}
+
+.arrivals-content {
+  display: flex;
+  flex-direction: row;
+}
+
+.giftcard-list {
+  margin-left: 5%;
+  display: flex;
+  justify-content: space-between;
+  width: 70%;
+}
+
+.arrivals-title {
+  text-align: left;
+  /* margin-left: 10%; */
+  /* font-family: "PolySans"; */
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 38px;
+  letter-spacing: -0.02em;
+  color: #000429;
+}
+
+.load-more {
+  margin-top: 5%;
+  cursor: pointer;
+}

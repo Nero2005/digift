@@ -1,0 +1,50 @@
+.filters {
+  width: 25%;
+  background-color: #f5f7fa;
+  display: inline-block;
+  border-radius: 12px;
+  text-align: left;
+  padding: 2%;
+}
+
+.filters-top {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.filters-top h6 {
+  font-weight: 600;
+  font-size: 16px;
+}
+
+#reset-filters {
+  font-weight: 600;
+  font-size: 16px;
+  color: #0069e0;
+}
+
+.categories {
+  display: block;
+  margin-top: 17%;
+  clear: both;
+}
+
+.filter-item {
+  padding: 2%;
+  margin-bottom: 3%;
+}
+
+#check-box {
+  display: inline-block;
+  margin-right: 5%;
+  cursor: pointer;
+  width: 18px;
+  height: 18px;
+  border: 1.5px solid #dcdee5;
+  border-radius: 4px;
+}
+
+/* .check {
+
+} */

@@ -1,0 +1,43 @@
+.feedback {
+  padding: 7%;
+}
+
+.feedback-title {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 72px;
+  padding: 0 15%;
+  text-align: center;
+  letter-spacing: -0.02em;
+  color: #000429;
+}
+
+.feedback-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.feedback-ex {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 28px 40px;
+  border: 2px solid #ebeff5;
+  border-radius: 8px;
+  margin: 5% 1%;
+}
+
+.feedback-ex p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+  letter-spacing: -0.02em;
+  color: #8a91a8;
+}
+
+.feedback-ex div {
+  margin-top: 9%;
+}

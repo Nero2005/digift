@@ -1,0 +1,40 @@
+.bus-banner {
+  padding: 7%;
+  margin: 5% 7%;
+  box-sizing: border-box;
+  border-radius: 50px;
+  background-color: rgb(54, 54, 189);
+}
+
+.bus-banner-content {
+  padding: 0 15%;
+  text-align: center;
+  margin: 5% 0;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 77px;
+  letter-spacing: -0.02em;
+  color: white;
+}
+
+.bus-banner-desc {
+  padding: 0 25%;
+  color: white;
+}
+
+.create-account, .helps {
+  color: white;
+  text-decoration: none;
+}
+
+.create-account:hover, .helps:hover {
+  color: white;
+}
+
+.line {
+  margin: 0 41%;
+  height: .1px;
+  text-align: center;
+  border: .5px solid white;
+}
