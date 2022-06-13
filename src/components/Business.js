@@ -1,9 +1,5 @@
 import { Header } from "./Header";
-import { Arrivals } from "./Arrivals";
-import { Feedback } from "./Feedback";
-import { Banner } from "./Banner";
 import { Footer } from "./Footer";
-import { TopBanner } from "./TopBanner";
 import { GetStarted } from "./GetStarted";
 import { BusinessBanner } from "./BusinessBanner";
 import { Designed } from "./Designed";
